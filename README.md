@@ -1,4 +1,4 @@
-# Calcutor
+# JAVASCRIPT-Calcutor
 
 ## `Time`
 Today is 23/4/2023 , when iam uploading this project.
