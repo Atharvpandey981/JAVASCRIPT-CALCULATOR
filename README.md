@@ -1,7 +1,7 @@
 # JAVASCRIPT-Calcutor
 
 ## `Time`
-* Today is 23/4/2023 , when iam uploading this project.
+* Today is 22/4/2023 , when iam uploading this project.
 ## `About`
 * This is my first javascript project. It is a calculator.
 ## `Technologies Used`
